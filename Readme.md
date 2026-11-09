@@ -7,14 +7,13 @@
 ## 🎓 About Me
 
 * **Offensive Security Focus:** Concentrating on low-level system vulnerabilities, memory corruption, and exploit development.
-* **CTF Player:** Actively solves CTFs with an emphasis on Binary Exploitation (Pwn) and Reverse Engineering.
 * **Low-Level Mechanics:** Interested in understanding how systems break at the assembly and architecture level to build robust exploits.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💻 Tech Stack
 
-* **Languages:** C++, Python, Shell, JavaScript
+* **Languages:** C++, Python, Shell
 * **Analysis & Exploitation:** Ghidra, IDA Pro, GDB / pwndbg, Pwntools
 * **Environments:** Linux (Ubuntu/Kali), Windows Internals
 
@@ -23,8 +22,7 @@
 ## 🎯 Current Goals
 
 * Master kernel-level exploitation and advanced binary analysis techniques.
-* Target high-tier CTFs and vulnerability research to build elite technical expertise.
-* Achieve long-term financial independence through high-impact cybersecurity work and venture builds.
+* Target high-tier vulnerability research to build elite technical expertise.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
